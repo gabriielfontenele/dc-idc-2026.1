@@ -1,16 +1,18 @@
 ---
-title: Título do Post                     # <- Altere o título
-description: Breve descrição da postagem  # <- Altere a descrição
-slug: equipe01-temaprincipal            # <- Altere temaprincipal, mantenha o prefixo equipe01-
-date: 2026-01-01 00:00:00+0000            # <- Coloque a data do dia que inseriu o conteúdo
-image: cover.jpg                          # <- Nome do arquivo de imagem com a capa (adicione à pasta)
+title: A Matemática Escondia nas Rotas do Maps e Aprendizagem de Máquina na Evasão Universitária                     # <- Altere o título
+description: Nesta publicação, trazemos a ciência até você em dois formatos: vídeo e podcast! No vídeo, desvendamos a lógica e os algoritmos por trás das rotas que os aplicativos de GPS escolhem para você. No podcast, apresentamos uma pesquisa inovadora desenvolvida aqui na Universidade Federal do Ceará (UFC), que explora como o aprendizado de máquina pode ser um aliado no combate à evasão de alunos no curso de Ciência da Computação.  # <- Altere a descrição
+slug: equipe01-maps-ml            # <- Altere temaprincipal, mantenha o prefixo equipe01-
+date: 2026-07-03 00:00:00+0000            # <- Coloque a data do dia que inseriu o conteúdo
+image: capa.png                          # <- Nome do arquivo de imagem com a capa (adicione à pasta)
 categories:
     - Post                                # <- Deixe como está
 tags:
-    - Tema do Vídeo                       # <- Altere para o tema do vídeo
-    - Tema do Podcast                     # <- Altere para o tema do episódio. Se for igual ao de cima, remova essa linha
+    - Otimização
+    - Dijkstra                       # <- Altere para o tema do vídeo
+    - Aprendizado de Máquina
+    - Evasão Universitária                     # <- Altere para o tema do episódio. Se for igual ao de cima, remova essa linha
 weight: 1                                 # <- Deixe como está
-draft: true                               # <- IMPORTANTE: troque para false (ou apague esta linha) quando a postagem estiver pronta para publicar
+draft: false                               # <- IMPORTANTE: troque para false (ou apague esta linha) quando a postagem estiver pronta para publicar
 ---
 
 **Autores**: [Lucas Rian de Sousa Pereira](lucasrian@alu.ufc.br), [Jorge Leao Salgado Neto](jorgesalgado1190@gmail.com), [Joao Gabriel Borges Monteiro](joaogabrielborges@alu.ufc.br), & [Joao Gabriel Almeida De Oliveira](joaobielos@gmail.com).
