@@ -13,12 +13,7 @@ weight: 1                                 # <- Deixe como está
 draft: true                               # <- IMPORTANTE: troque para false (ou apague esta linha) quando a postagem estiver pronta para publicar
 ---
 
-**Autores**: Nome 1, Nome 2 e Nome 3.
-
-<!--
-Escreva aqui o texto da sua postagem. Veja o passo a passo completo em guia-pull-request.md
-no repositório do site (emanueles/dc-idc).
--->
+**Autores**: [Lucas Rian de Sousa Pereira](lucasrian@alu.ufc.br), [Jorge Leao Salgado Neto](jorgesalgado1190@gmail.com), [Joao Gabriel Borges Monteiro](joaogabrielborges@alu.ufc.br), & [Joao Gabriel Almeida De Oliveira](joaobielos@gmail.com).
 
 {{< youtube "ID_DO_VIDEO" >}}
 
