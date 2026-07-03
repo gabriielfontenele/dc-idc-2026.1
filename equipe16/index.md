@@ -1,6 +1,6 @@
 ---
 title: Liberdade Terceirizada             
-description: IA e apps de trabalho: liberdade na propaganda, controle na prática.
+description: "IA e apps de trabalho: liberdade na propaganda, controle na prática."
 slug: equipe16-colapsodaverdade           
 date: 2026-07-03 13:29:00+0000           
 image: cover.jpeg                         
