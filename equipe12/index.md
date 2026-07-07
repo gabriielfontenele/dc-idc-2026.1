@@ -1,19 +1,26 @@
 ---
-title: Título do Post                     # <- Altere o título
-description: Breve descrição da postagem  # <- Altere a descrição
-slug: equipe12-temaprincipal            # <- Altere temaprincipal, mantenha o prefixo equipe12-
-date: 2026-01-01 00:00:00+0000            # <- Coloque a data do dia que inseriu o conteúdo
-image: cover.jpg                          # <- Nome do arquivo de imagem com a capa (adicione à pasta)
+title: Para onde vai o que você deleta? | Dispositivos inteligentes no combate à dengue
+description: Entenda o que acontece com os arquivos deletados do computador e descubra como a Internet das Coisas (IoT) e o Machine Learning ajudam a prever surtos de dengue em Fortaleza.
+slug: equipe12-exclusao-dados-combate-dengue
+date: 2026-07-07 17:19:08+0000
+image: capa_post_IDC.png
 categories:
-    - Post                                # <- Deixe como está
+    - Post
 tags:
-    - Tema do Vídeo                       # <- Altere para o tema do vídeo
-    - Tema do Podcast                     # <- Altere para o tema do episódio. Se for igual ao de cima, remova essa linha
-weight: 1                                 # <- Deixe como está
-draft: true                               # <- IMPORTANTE: troque para false (ou apague esta linha) quando a postagem estiver pronta para publicar
+    - Exclusão de dados                   
+    - Internet das Coisas (IoT)                  
+    - Machine learning
+    - Saúde pública
+weight: 1 
+draft: true
 ---
 
-**Autores**: Nome 1, Nome 2 e Nome 3.
+## Equipe
+
+[Gabriel Teixeira Queiroz Damasceno](https://www.instagram.com/_gabrieltqd/),
+[João Guilherme Lima Martins](https://www.instagram.com/gui.limartins/),
+[Jonathan Duarte Uchoa](https://www.instagram.com/sxwrzn/) e
+[Samuel Augusto de Abreu](https://www.instagram.com/samuel.au.ab/).
 
 <!--
 Escreva aqui o texto da sua postagem. Veja o passo a passo completo em guia-pull-request.md
