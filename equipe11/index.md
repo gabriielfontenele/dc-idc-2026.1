@@ -10,7 +10,7 @@ tags:
     - Computação gráfica                      # <- Altere para o tema do vídeo
     - Inteligência Artificial                     # <- Altere para o tema do episódio. Se for igual ao de cima, remova essa linha
 weight: 1                                 # <- Deixe como está
-draft: true                               # <- IMPORTANTE: troque para false (ou apague esta linha) quando a postagem estiver pronta para publicar
+draft: false                               # <- IMPORTANTE: troque para false (ou apague esta linha) quando a postagem estiver pronta para publicar
 ---
 
 **Autores**: LUIS FRANCISCO SOUSA LEAL GOMES, YASMIN SANTOS DE AMORIM, RAVEL COSTA DE ARAUJO e LUIS HENRIQUE MOURA DA SILVA.
