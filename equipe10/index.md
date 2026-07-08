@@ -12,7 +12,7 @@ weight: 1
 draft: true
 ---
 
-**Autores**: Gabriel Victor Vidal da Silva, Maria Karoline da Silva Freitas e [Matheus Finger Ramos de Oliveira](https://www.instagram.com/math.eus.finger).
+**Autores**: Gabriel Victor Vidal da Silva (gabrielvidalpb@alu.ufc.br), Maria Karoline da Silva Freitas (karolfr@alu.ufc.br) e [Matheus Finger Ramos de Oliveira](https://www.instagram.com/math.eus.finger).
 
 
 ## RNA e expressão gênica: Por que suas células são tão diferentes com o mesmo DNA
