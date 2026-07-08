@@ -3,7 +3,7 @@ title: Análise de dados para o combate à violência contra a mulher e para o g
 description: O uso de técnicas de ciência de dados para análise da violência contra a mulher e na gestão hídrica (dos reservatórios às cidades). 
 slug: equipe02-ia-machine-learnig-violencia-de-genero-e-gestao-hidrica            
 date: 2026-08-07 16:42:10+0000            
-image: Capa.jpg                          
+image: CapaNova.jpg                          
 categories:
     - Post                                
 tags:
