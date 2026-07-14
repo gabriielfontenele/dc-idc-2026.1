@@ -4,7 +4,7 @@ title: "Deepfakes, Redes e Jogos — Ciência Explicada"
 description: Produções de divulgação científica que apresentam, de forma acessível, pesquisas da Universidade Federal do Ceará sobre os impactos da tecnologia na sociedade, abordando desde desempenho em jogos online até os desafios dos deepfakes e da segurança digital.
 slug: equipe04-deepfake-e-latencia-em-jogos
 date: 2026-07-07 17:11:00+0000
-image: cover.jpeg
+image: cover.jpg
 categories:
 - Post
 tags:
