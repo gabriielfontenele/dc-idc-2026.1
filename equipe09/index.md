@@ -15,7 +15,7 @@ draft: false                               # <- IMPORTANTE: troque para false (o
 
 ## 👥 Equipe 09
 
-**Autores**: [Mirian Sampaio Faria](miriansf_@hotmail.com), [Jonathan Davi Sampaio Faria](jonathandsf_@hotmail.com), [Bruno Igor Sousa Vasconcelos](brunoigor@alu.ufc.br).
+**Autores**: [Mirian Sampaio Faria](mailto:miriansf_@hotmail.com), [Jonathan Davi Sampaio Faria](mailto:jonathandsf_@hotmail.com), [Bruno Igor Sousa Vasconcelos](mailto:brunoigor@alu.ufc.br).
 
 ## 🎥 Discriminação no Treinamento de Modelos de Inteligência Artificial
 
