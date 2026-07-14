@@ -5,10 +5,8 @@ slug: equipe05-superpredios
 date: 2026-07-06 11:17:00+0000           
 image: thumb3.jpg                         
 categories:
-    
-Post                                
+    - Post                            
 tags:
-    
  - Superprédios                       
  - Urbanismo                     
 weight: 1                                 
