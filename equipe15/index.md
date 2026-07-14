@@ -1,25 +1,42 @@
 ---
-title: Título do Post                     # <- Altere o título
-description: Breve descrição da postagem  # <- Altere a descrição
-slug: equipe15-temaprincipal            # <- Altere temaprincipal, mantenha o prefixo equipe15-
-date: 2026-01-01 00:00:00+0000            # <- Coloque a data do dia que inseriu o conteúdo
-image: cover.jpg                          # <- Nome do arquivo de imagem com a capa (adicione à pasta)
+title: Internet das Coisas e Machine Learning combatendo à dengue e Aprendendo Arquitetura de Software de forma lúdica                  
+description: "Este projeto de divulgação científica conta com duas produções: uma em vídeo, sobre o combate à dengue utilizando Internet das Coisas e Aprendizado de Máquina, e outra em podcast, sobre o aprendizado da Arquitetura de Software de forma lúdica."    
+slug: equipe15-ml-iot-dengue            
+date: 2026-07-08 00:00:00+0000           
+image: capa-postagem.png                          
 categories:
-    - Post                                # <- Deixe como está
+    - Post                               
 tags:
-    - Tema do Vídeo                       # <- Altere para o tema do vídeo
-    - Tema do Podcast                     # <- Altere para o tema do episódio. Se for igual ao de cima, remova essa linha
-weight: 1                                 # <- Deixe como está
-draft: true                               # <- IMPORTANTE: troque para false (ou apague esta linha) quando a postagem estiver pronta para publicar
+    - Machine Learning
+    - Internet das Coisas                  
+    - Arquitetura de Software                
+weight: 1                                 
+draft: false                               
 ---
+## 👥 Equipe 15
+**Autores**: [Maria Gabriela Torres Calvacanti](), [Nina Bianca do Nascimento Lima](https://www.instagram.com/ninabws_), [Pedro Henrique Laurentino Mota](https://www.instagram.com/ph.java), [Willgner Silva Ferreira](https://www.instagram.com/wiu._.wiu)
 
-**Autores**: Nome 1, Nome 2 e Nome 3.
+Principais temas e interesses aboradados pela a equipe:
 
-<!--
-Escreva aqui o texto da sua postagem. Veja o passo a passo completo em guia-pull-request.md
-no repositório do site (emanueles/dc-idc).
--->
+    - Machine Learning
+    - Combate à dengue
+    - Internet das Coisas
+    - Arquitetura de Software
+    - Aprendizado lúdico
 
-{{< youtube "ID_DO_VIDEO" >}}
+## Utilização da Internet das Coisas no combate à dengue
+Como base para a produção desse material de divulgação científica foi utilizado a dissertação "[Predição de casos de dengue na cidade de Fortaleza-CE utilizando internet das coisas e aprendizado de máquina](https://www.repositorio.ufc.br/handle/riufc/74332)", do autor Nicodemos Freitas. 
 
-{{< audio "nome-do-arquivo.mp3" >}}
+O objetivo do trabalho foi selecionar um artigo sobre Internet das Coisas e, com base nele, desenvolver um vídeo introdutório sobre o conceito, utilizando o artigo como um exemplo de impacto positivo dessa tecnologia na sociedade atual.
+
+Neste vídeo, são introduzidos os seguintes conceitos: Aprendizado de Máquina, Internet das Coisas e Análise de Dados. Ademais, é detalhada a aplicação da dissertação de Nicodemos Freitas, assim como seu impacto positivo na sociedade.
+
+{{< youtube "CLdoSJHGn5s" >}}
+
+## Aprendendo Arquitetura de Software com o LEARN!
+
+Como base para a produção desse material de divulgação científica foi utilizado a dissertação "[LEARN Board Game: A game for teaching Software Architecture created through Design Science Research](https://www.repositorio.ufc.br/handle/riufc/58002)", da autora Tamires A. S. Sousa.
+
+Neste podcast, debatemos jogos educacionais, principalmente no contexto da grande área da computação. Ademais, discutimos o desenvolvimento do LEARN (LEarning software ARchitecture fundameNtals), um jogo de tabuleiro com o objetivo de ajudar no ensino da Arquitetura de Software.
+
+{{< audio "podcast-TED.mp3" >}}
