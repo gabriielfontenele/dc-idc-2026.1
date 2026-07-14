@@ -12,7 +12,7 @@ tags:
 weight: 1                                 # <- Deixe como está
 ---
 
-**Autores**: [Pedro Gabriel Castelo Garcez](pedrogcg@alu.ufc.br), [Mateo Coelho Alves](mathco93@gmail.com) e [Caio Braga DE Almeida Miranda](8caiobraga8@gmail.com). 
+**Autores**: [Pedro Gabriel Castelo Garcez](mailto:pedrogcg@alu.ufc.br), [Mateo Coelho Alves](mailto:mathco93@gmail.com) e [Caio Braga DE Almeida Miranda](mailto:8caiobraga8@gmail.com). 
 
 ## A privacidade de dados nas start-ups do Ceará
 Nosso trabalho aborda a privacidade de dados no contexto das startups e usa como base o TCC “Análise da conformidade dos requisitos de privacidade das startups incubadas na UFC, de acordo com a LGPD”, escrito por Davi Oliveira Lopes, na Universidade Federal do Ceará, Campus de Quixadá.
