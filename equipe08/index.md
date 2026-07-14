@@ -13,7 +13,7 @@ weight: 1
 draft: false
 ---
 
-**Autores**: [Bianca Cavalcante Morais] (biacavalcantemorais@gmail.com), [Eric Rodrigues Gomes](https://www.instagram.com/eric.rodrig_omes), [Miguel Moreira Rodrigues] (miguelmoreira@alu.ufc.br), [Rafael de Paiva Lima Filho] (rafael.limafilho@alu.ufc.br)
+**Autores**: [Bianca Cavalcante Morais](biacavalcantemorais@gmail.com), [Eric Rodrigues Gomes](https://www.instagram.com/eric.rodrig_omes), [Miguel Moreira Rodrigues](miguelmoreira@alu.ufc.br), [Rafael de Paiva Lima Filho](rafael.limafilho@alu.ufc.br)
 
 
 ## A evolução cinematográfica das naves
@@ -26,7 +26,7 @@ O vídeo se trata de uma linha do tempo na qual abordamos diversos filmes consag
 
 ## O problema da cintura colorida.
 
-Já na produção do nosso podcast, abordamos sobre um problema na teoria dos grafos que se acreditava já está correto, mas apresentava uma falha em sua análise. O artigo que ainda vai se publicado, feito por Rafael de Paiva Lima Filho, aborda sobre o problema recém corrigido da cintura com menor número de cores.
+Já na produção do nosso podcast, abordamos um problema na teoria dos grafos que se acreditava que já estava correto, mas apresentava uma falha em sua análise. O artigo que ainda vai se publicado, feito por Rafael de Paiva Lima Filho, aborda sobre o problema recém corrigido da cintura com menor número de cores.
 
 O podcast é uma entrevista com o autor principal que explica um pouco melhor sobre o contexto do problema, o que havia de errado e como foi corrigido e adaptado devidamente.  
 
