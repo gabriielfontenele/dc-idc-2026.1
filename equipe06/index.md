@@ -18,20 +18,20 @@ draft: false                               # <- IMPORTANTE: troque para false (o
 
 **Autores**: [Pedro Ernesto Lopes de Oliveira](https://www.instagram.com/erne.pe), [Gabriel Barbosa Fontenele](https://www.instagram.com/gaabrielfontenele), [João Victor Evangelista Dias de Souza](https://www.instagram.com/joaov_evangelista), [Larissa Anastácio Feitosa](https://www.instagram.com/larissa_anastacio)
 
-<!--
-## A ciência por trás da ICÔNICA abertura de ONE PIECE! 
+
+##A ciência por trás da ICÔNICA abertura de ONE PIECE! 
 
 O vídeo tem como principal objetivo divulgar os tipos de escuta definidos por Michel Chion -- teórico francês, músico e professor --, em seu livro "A Audiovisão: Som e Imagem no Cinema", e por Márcia Carvalho -- radialista, formada na UNESP, Mestre em Comunicação e Estéticas Audiovisuais, pela ECA-USP, e Doutora em Multimeios pelo Instituto de Artes da UNICAMP. Para tanto, utiliza-se no vídeo o artigo, de Iago Fillipi (doutorando em Comunicação pela UFC) e de Juliana Teixeira (Doutora em comunicação pela UFBA), "O som da aventura: o papel da canção 'WE ARE!' na visualização do animê One Piece" (disponível em: <https://periodicos.ufjf.br/index.php/lumina/article/view/50165/30183>). A equipe realizou uma pesquisa informal, em formato de brincadeira, para ilustrar a popularidade e importância da abertura "WE ARE!" para o animê One Piece, além de abordar como cada tipo de escuta funciona na identificação rápida dessa canção. Na descrição do vídeo de divulgação científica, encontram-se diversas referências de escuta, como a música "Açaí", do Djavan, para melhor entendimento dos conceitos abordados no vídeo
 
 
 
--->
+
 
 {{< youtube "22pyy26mqdQ" >}}
-<!--
-## TI por Elas! Para mulheres que estão dentro e fora da Computação. 
+
+##TI por Elas! Para mulheres que estão dentro e fora da Computação. 
 
 Neste episódio, discutimos a participação das mulheres na Computação e os desafios enfrentados para ampliar a presença feminina na área da tecnologia. A conversa parte do artigo "TI por Elas: para mulheres que estão dentro e fora da Computação" (disponível em: <https://openalex.org/works/w2998772284>), que apresenta a trajetória e os impactos do projeto TI por Elas, desenvolvido na Universidade Federal do Ceará (UFC) – Campus Quixadá. Recebemos como convidadas a Prof.a Dra. Maria Viviane de Menezes (https://www.instagram.com/menezesvivi), coordenadora do curso de Inteligência Artificial da UFC Quixadá e tutora do PET Tecnologia da Informação e Ana Lívia Lopes (https://www.instagram.com/livia_lopes10), formanda em Engenharia de Computação da UFC Quixadá e bolsista do projeto InfoGirl. Ao longo do episódio, conversamos sobre suas trajetórias na tecnologia, os desafios enfrentados pelas mulheres na área, a realidade do Sertão Central cearense e o impacto de projetos de ensino, pesquisa e extensão voltados à inclusão feminina na Computação.
 
--->
+
 {{< audio "Podcast.mp3" >}}
