@@ -1,9 +1,9 @@
 ---
-title: Papel da Inteligencia Artificial na detecçao de arritimias cardiacas.                     # <- Altere o título
-description: Desenvolvimento de um sistema prognóstico para detectar arritimias cardiacas utilizando a inteligência artificial  # <- Altere a descrição
+title: Papel da Inteligência Artificial na detecção de arritimias cardíacas.                     # <- Altere o título
+description: Desenvolvimento de um sistema prognóstico para detectar arritimias cardíacas utilizando a inteligência artificial  # <- Altere a descrição
 slug: equipe07-IA-Arritimia           # <- Altere temaprincipal, mantenha o prefixo equipe07-
 date: 2026-07-08 00:00:00+0000            # <- Coloque a data do dia que inseriu o conteúdo
-image: img.jpg                          # <- Nome do arquivo de imagem com a capa (adicione à pasta)
+image: img.jpeg                          # <- Nome do arquivo de imagem com a capa (adicione à pasta)
 categories:
     - Post                                # <- Deixe como está
 tags:
@@ -27,7 +27,7 @@ Neste vídeo, exploramos como o "efeito dominó" de dados mal gerenciados pode c
 Baseado no artigo científico "Systematic Mapping of Data Quality in the Public Sector" (Silva et al., 2025), analisamos como a falta de padronização e o uso de métricas inadequadas geram barreiras para a confiabilidade.
 
 O que você vai aprender:
-Por que completude, consistência e precisão são os pilares fundamentais para qualquer dado confiável.
+Porque completude, consistência e precisão são os pilares fundamentais para qualquer dado confiável.
 IA e Vieses: Inteligência Artificial não é "mágica" e como ela aprende e replica os erros dos dados de treinamento.
 O papel da tecnologia: Como novas ferramentas e processos de revisão contínua estão mudando a forma como monitoramos e limpamos dados em tempo real.
 
